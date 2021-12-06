@@ -1,0 +1,25 @@
+body{
+    background-color: #FBFFE2;
+        }
+hr{
+                
+    border-style: none;
+    border-top: dotted;
+    border-color:#FFAFAF;
+    border-width: 5px;
+    width: 10%;
+}
+h3{
+    
+    color: #66BFBF;
+}
+h1{
+    font:italic small-caps bold 16px/2 cursive;
+    font-size: 100px; 
+    color: #66BFBF;
+}
+p{
+    font:italic small-caps bold 16px/2 cursive;
+    font-size: 50px; 
+    color: #66BFBF;
+}
